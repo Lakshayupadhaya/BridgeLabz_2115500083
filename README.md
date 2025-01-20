@@ -6,3 +6,6 @@ Learnings-
 	Type conversion in c#(for float ---> Convert.ToSingle)
 	inbulid Math functions(Pow, PI)
 	String formating 
+
+20-JAN-2025
+Added operators practice code 
