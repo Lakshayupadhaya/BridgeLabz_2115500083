@@ -9,3 +9,12 @@ Learnings-
 
 20-JAN-2025
 Added operators practice code 
+
+21-JAN-2025
+Added classes and objects practice code
+Learnings -
+	Access modifiers in csharp and their difference
+	static and non static methods
+	constructor and non static constructor in c
+	calling of static method in non static and vice a versa
+	classes and objects in c#
