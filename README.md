@@ -18,3 +18,11 @@ Learnings -
 	constructor and non static constructor in c
 	calling of static method in non static and vice a versa
 	classes and objects in c#
+28-JAN-2025
+Added assignment questions of 28-JAN-2025
+Learnings  -
+	Random module in c#
+	String format
+	methods
+	working with 2D arrays
+	
