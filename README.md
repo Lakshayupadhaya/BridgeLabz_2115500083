@@ -26,3 +26,12 @@ Learnings  -
 	methods
 	working with 2D arrays
 	
+29-JAN-2025
+added assignment on strings 29-JAN-2025
+Learnings  -  
+	how to work with strings
+	strings are immutable
+	how to work iwth immutable data types
+	made programs without using buildin methods
+	char[] array
+	list<char>
