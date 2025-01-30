@@ -35,3 +35,10 @@ Learnings  -
 	made programs without using buildin methods
 	char[] array
 	list<char>
+
+30-JAN-2025
+added assignment questions on string and buildin functions(30/31-jan-2025)
+Learnings  -  
+	working with date and time in c#
+	working with array without build in methods
+	converting time in various time zones
