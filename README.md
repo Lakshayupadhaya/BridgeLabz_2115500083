@@ -42,3 +42,13 @@ Learnings  -
 	working with date and time in c#
 	working with array without build in methods
 	converting time in various time zones
+
+
+31-JAN-2025
+Added assignment of buildin functions and calsses and objects
+Learnings - 
+	basic concepts of classes and objects
+	working with date and time 
+	Constructors
+	Buildin methods
+			 
