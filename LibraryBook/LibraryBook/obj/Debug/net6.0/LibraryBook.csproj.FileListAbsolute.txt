@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\LibraryBook\LibraryBook\bin\Debug\net6.0\LibraryBook.exe
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\LibraryBook\LibraryBook\bin\Debug\net6.0\LibraryBook.deps.json
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\LibraryBook\LibraryBook\bin\Debug\net6.0\LibraryBook.runtimeconfig.json
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\LibraryBook\LibraryBook\bin\Debug\net6.0\LibraryBook.dll
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\LibraryBook\LibraryBook\bin\Debug\net6.0\LibraryBook.pdb
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.dll
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\LibraryBook\LibraryBook\obj\Debug\net6.0\refint\LibraryBook.dll
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.pdb
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\LibraryBook\LibraryBook\obj\Debug\net6.0\ref\LibraryBook.dll

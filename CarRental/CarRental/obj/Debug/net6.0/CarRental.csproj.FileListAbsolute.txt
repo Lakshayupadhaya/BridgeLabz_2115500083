@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\CarRental\CarRental\obj\Debug\net6.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\CarRental\CarRental\obj\Debug\net6.0\CarRental.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\CarRental\CarRental\obj\Debug\net6.0\CarRental.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\CarRental\CarRental\obj\Debug\net6.0\CarRental.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\CarRental\CarRental\bin\Debug\net6.0\CarRental.exe
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\CarRental\CarRental\bin\Debug\net6.0\CarRental.deps.json
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\CarRental\CarRental\bin\Debug\net6.0\CarRental.runtimeconfig.json
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\CarRental\CarRental\bin\Debug\net6.0\CarRental.dll
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\CarRental\CarRental\bin\Debug\net6.0\CarRental.pdb
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\CarRental\CarRental\obj\Debug\net6.0\CarRental.dll
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\CarRental\CarRental\obj\Debug\net6.0\refint\CarRental.dll
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\CarRental\CarRental\obj\Debug\net6.0\CarRental.pdb
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\CarRental\CarRental\obj\Debug\net6.0\CarRental.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\csharp\01-feb-2025\CarRental\CarRental\obj\Debug\net6.0\ref\CarRental.dll
