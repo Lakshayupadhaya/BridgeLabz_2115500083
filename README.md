@@ -1,6 +1,7 @@
 19-JAN-2025
 Submitted assignment 1
-Learnings-
+
+LEARNINGS-
 	Basic of c#
 	Take input and show output in c#-
 	Type conversion in c#(for float ---> Convert.ToSingle)
@@ -12,7 +13,8 @@ Added operators practice code
 
 21-JAN-2025
 Added classes and objects practice code
-Learnings -
+
+LEARNINGS -
 	Access modifiers in csharp and their difference
 	static and non static methods
 	constructor and non static constructor in c
@@ -20,7 +22,8 @@ Learnings -
 	classes and objects in c#
 28-JAN-2025
 Added assignment questions of 28-JAN-2025
-Learnings  -
+
+LEARNINGS  -
 	Random module in c#
 	String format
 	methods
@@ -28,7 +31,8 @@ Learnings  -
 	
 29-JAN-2025
 added assignment on strings 29-JAN-2025
-Learnings  -  
+
+LEARNINGS  -  
 	how to work with strings
 	strings are immutable
 	how to work iwth immutable data types
@@ -38,7 +42,8 @@ Learnings  -
 
 30-JAN-2025
 added assignment questions on string and buildin functions(30/31-jan-2025)
-Learnings  -  
+
+LEARNINGS  -  
 	working with date and time in c#
 	working with array without build in methods
 	converting time in various time zones
@@ -46,9 +51,22 @@ Learnings  -
 
 31-JAN-2025
 Added assignment of buildin functions and calsses and objects
-Learnings - 
+
+LEARNINGS - 
 	basic concepts of classes and objects
 	working with date and time 
 	Constructors
 	Buildin methods
 			 
+
+01-FEB-2025
+Added assignment question on classes and objects
+
+LEARNINGS - 
+	Access modifiers
+	Instance and class methods
+	instance and class level attributes
+	instance vs class level
+	constructor chaining
+	copy constructor
+	object passing and dealing with objects
