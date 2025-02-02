@@ -70,3 +70,14 @@ LEARNINGS -
 	constructor chaining
 	copy constructor
 	object passing and dealing with objects
+
+02-FEB-2025
+Added assignment questions on classes and objects
+
+Learnings - 
+	base keyword
+	basic concepts of oops
+	public private and protected
+	inheritance
+	Cosntructor chaining using base
+
