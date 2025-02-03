@@ -71,6 +71,7 @@ LEARNINGS -
 	copy constructor
 	object passing and dealing with objects
 
+
 02-FEB-2025
 Added assignment questions on classes and objects
 
@@ -81,3 +82,13 @@ Learnings -
 	inheritance
 	Cosntructor chaining using base
 
+
+
+03-FEB-2025
+Added practice questions on string and oops
+
+Learnings - 
+	ArrayList
+	Access modifiers
+	string
+	OOPS
