@@ -92,3 +92,12 @@ Learnings -
 	Access modifiers
 	string
 	OOPS
+
+04-FEB-2025
+Added assignment codes on this, class, private, is, and readonly
+
+Learnings - 
+	is keyword
+	this keyword
+	private variables or attributes
+	readonly variables or attributes
