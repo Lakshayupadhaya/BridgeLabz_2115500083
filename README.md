@@ -101,3 +101,12 @@ Learnings -
 	this keyword
 	private variables or attributes
 	readonly variables or attributes
+
+05-FEB-2025
+Added practice questions on oops
+
+Learnings - 
+	OOPS concept
+	use of oops in real life objects
+	Private constructor
+	Garbage collector in c#
