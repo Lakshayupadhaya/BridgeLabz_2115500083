@@ -110,3 +110,16 @@ Learnings -
 	use of oops in real life objects
 	Private constructor
 	Garbage collector in c#
+
+06-FEB-2025
+Added assignment programs on oops
+
+Learnings - 
+	OOPS
+	Access modifiers
+	Association 
+	Aggregation
+	Composition
+	Is a Has a relation
+	
+	
