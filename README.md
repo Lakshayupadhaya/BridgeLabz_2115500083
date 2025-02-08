@@ -111,6 +111,7 @@ Learnings -
 	Private constructor
 	Garbage collector in c#
 
+
 06-FEB-2025
 Added assignment programs on oops
 
@@ -122,4 +123,12 @@ Learnings -
 	Composition
 	Is a Has a relation
 	
+	
+
+08-FEB-2025
+Added assignment programs on inheritance
+
+Learnings - 
+	Inheritance in c#
+	Types of inheritance
 	
