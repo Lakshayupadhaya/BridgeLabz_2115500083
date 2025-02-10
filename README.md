@@ -132,3 +132,14 @@ Learnings -
 	Inheritance in c#
 	Types of inheritance
 	
+
+
+10-FEB-2025
+Added assignment programs on oops principles
+
+Learnings - 
+	Inheritance 
+	Abstraction
+	Encapsulation
+	Polymorphism
+	IS-A and HAS-A relation
