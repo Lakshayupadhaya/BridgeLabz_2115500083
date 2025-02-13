@@ -163,3 +163,15 @@ Learnings -
 	Single LinkedList
 	Doubly LinkedList
 	Circular LinkedList
+
+
+
+13-FEB-2025
+Added programs on Stack, Queue and HashMap
+
+Learnings - 
+	Stack
+	Queue
+	HashMap
+	Linked List
+	Matrix Problems
