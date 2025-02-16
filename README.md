@@ -185,3 +185,13 @@ Learnings -
 	Sorting Algorithms
 	Linked List
 	2dmatrix
+
+
+
+16-FEB-2025
+Added progrms on Linear, Binary search, File Handeling and String builder
+
+Learnings - 
+	File Handeling,
+	String Builder,
+	Linear and Binary search
