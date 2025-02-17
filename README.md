@@ -189,9 +189,21 @@ Learnings -
 
 
 16-FEB-2025
-Added progrms on Linear, Binary search, File Handeling and String builder
+Added programs on Linear, Binary search, File Handeling and String builder
 
 Learnings - 
 	File Handeling,
 	String Builder,
 	Linear and Binary search
+
+
+
+17-FEB-2025
+Added programs for Algorithms and comaprisons
+
+Learnings - 
+	When to use what data structure
+	Comparisions in different algorithms
+	Stopwatch in c#
+	File Handelind in c#
+	Optimization 
