@@ -216,3 +216,16 @@ Added programs on generic class in c#
 Learnings - 
 	Generic class in c#,
 	OOPS
+
+
+
+
+19-FEB-2025
+Added programs on generic classes (Dictionary, LinkedList, stack, queue, hashset)
+
+Learnings - 
+	Dictionary,
+	LinkedList,
+	Stack,
+ 	Queue,
+	Generic
