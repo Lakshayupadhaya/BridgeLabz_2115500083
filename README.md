@@ -254,3 +254,14 @@ Learnings -
 	Try catch and finally block,
 	Nested try catch finally, 
 	User Made exceptions
+
+
+
+
+22-FEB-2025
+Added programs on Nunit and Regex
+	
+Learnings - 
+	Nunit,
+	Testing in c#,
+	Regex
