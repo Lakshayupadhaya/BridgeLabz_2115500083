@@ -229,3 +229,16 @@ Learnings -
 	Stack,
  	Queue,
 	Generic
+
+
+
+20-FEB-2025
+Added programs on streams in c#
+
+Learnings - 
+	Streams, 
+	File stream,
+	Object stream,
+	StreamReader,
+	StreamWriter,
+	Buffered stream
