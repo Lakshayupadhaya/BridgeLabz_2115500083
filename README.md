@@ -242,3 +242,15 @@ Learnings -
 	StreamReader,
 	StreamWriter,
 	Buffered stream
+
+
+
+
+21-FEB-2025
+Added programs on exceptions
+
+Learnings - 
+	Exception Handeling,
+	Try catch and finally block,
+	Nested try catch finally, 
+	User Made exceptions
