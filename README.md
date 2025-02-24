@@ -265,3 +265,14 @@ Learnings -
 	Nunit,
 	Testing in c#,
 	Regex
+
+
+24-FEB-2025
+Added programs on reflection and annotation in c#
+
+Learning - 
+	Manipulation on fields, methods, properties, constructors, classes in runtime, 
+	Annotation in c#,
+	Annotation and reflection,
+	Access Modifiers(Private) manipulation,
+	Json
