@@ -276,3 +276,14 @@ Learning -
 	Annotation and reflection,
 	Access Modifiers(Private) manipulation,
 	Json
+
+
+
+25-FEB-2025
+Added programs on data handeling in c#
+
+Learnings - 
+	Data Handeling,
+	Csv, 
+	Json,
+	Reflection
