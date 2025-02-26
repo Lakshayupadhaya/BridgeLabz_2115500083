@@ -287,3 +287,16 @@ Learnings -
 	Csv, 
 	Json,
 	Reflection
+
+
+
+26-FEB-2025
+Added programs on json and data
+
+Learnings - 
+	JSON,
+	XML,
+	CSV,
+	Validation of data,
+	Annotation,
+	Reflection
