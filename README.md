@@ -300,3 +300,17 @@ Learnings -
 	Validation of data,
 	Annotation,
 	Reflection
+
+
+
+27-FEB-2025
+Added Web Applications HelloApp and UserRegistration
+
+Learnings - 
+	Create a .net core web api project,
+	API-Controller,
+	Authentication and autherization,
+	Three tier structure,
+	Implementing three tier structure in a real project
+	
+	
