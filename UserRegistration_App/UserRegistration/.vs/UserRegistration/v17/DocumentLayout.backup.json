@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\WebApp\\UserRegistration_App\\UserRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8E69A-4E7D-4549-BB6C-BF5F18852431}|UserRegistration.csproj|c:\\users\\asus\\desktop\\webapp\\userregistration_app\\userregistration\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B8E69A-4E7D-4549-BB6C-BF5F18852431}|UserRegistration.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8E69A-4E7D-4549-BB6C-BF5F18852431}|UserRegistration.csproj|c:\\users\\asus\\desktop\\webapp\\userregistration_app\\userregistration\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7B8E69A-4E7D-4549-BB6C-BF5F18852431}|UserRegistration.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FF1480-C98B-4064-AAAB-AFDBCB64B750}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\asus\\desktop\\webapp\\userregistration_app\\businesslayer\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5478BFFD-9245-4B6F-A446-C0468DC52962}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\asus\\desktop\\webapp\\userregistration_app\\repositorylayer\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8E69A-4E7D-4549-BB6C-BF5F18852431}|UserRegistration.csproj|c:\\users\\asus\\desktop\\webapp\\userregistration_app\\userregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B8E69A-4E7D-4549-BB6C-BF5F18852431}|UserRegistration.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8E69A-4E7D-4549-BB6C-BF5F18852431}|UserRegistration.csproj|c:\\users\\asus\\desktop\\webapp\\userregistration_app\\userregistration\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B8E69A-4E7D-4549-BB6C-BF5F18852431}|UserRegistration.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\WebApp\\UserRegistration_App\\UserRegistration\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\WebApp\\UserRegistration_App\\UserRegistration\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:49:39.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\WebApp\\UserRegistration_App\\UserRegistration\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\WebApp\\UserRegistration_App\\UserRegistration\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T16:08:42.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\WebApp\\UserRegistration_App\\UserRegistration\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\WebApp\\UserRegistration_App\\UserRegistration\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:43:33.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRegistrationRL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\WebApp\\UserRegistration_App\\RepositoryLayer\\UserRegistrationRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\UserRegistrationRL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\WebApp\\UserRegistration_App\\RepositoryLayer\\UserRegistrationRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\UserRegistrationRL.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:29:07.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistrationBL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\WebApp\\UserRegistration_App\\BusinessLayer\\UserRegistrationBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\UserRegistrationBL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\WebApp\\UserRegistration_App\\BusinessLayer\\UserRegistrationBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\UserRegistrationBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:28:33.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\WebApp\\UserRegistration_App\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRegistrationController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\WebApp\\UserRegistration_App\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\UserRegistrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:24:20.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
