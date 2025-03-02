@@ -326,3 +326,15 @@ Learnings -
 	ExceptionHandeling,
 	Post,
 	Get
+
+
+
+02-MAR-2025
+Added logging functionality and try catch blocks for exception in user regestration web app
+
+Learnings - 
+	Logging,
+	Why we need Logging,
+	How to add Logging in your project,
+	Types of Logging,
+	Exception Handeling with Logging
