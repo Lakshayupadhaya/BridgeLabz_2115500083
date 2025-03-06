@@ -338,3 +338,9 @@ Learnings -
 	How to add Logging in your project,
 	Types of Logging,
 	Exception Handeling with Logging
+
+
+
+06-Mar-2025
+Added JWT generation to login feature in registration app
+
